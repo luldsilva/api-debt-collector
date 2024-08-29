@@ -1,0 +1,6 @@
+@api_debt_collector_HostAddress = http://localhost:5205
+
+GET {{api_debt_collector_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
