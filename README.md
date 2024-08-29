@@ -3,6 +3,7 @@
 
 Este projeto é uma API desenvolvida para a inclusão e visualização de títulos em atraso. A API permite adicionar um título que está em atraso e consultar informações sobre esses títulos.
 Link para o projeto do front-end: https://github.com/luldsilva/front-api-debt-collector
+![2024-08-29-17-31-43](https://github.com/user-attachments/assets/1c56fe00-b492-4a70-b03c-db7a5c34342e)
 
 ## Funcionalidades
 
